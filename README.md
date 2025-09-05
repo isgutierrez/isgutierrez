@@ -1,6 +1,6 @@
 ## Hi there, I'm Isabella👋
 
-👩‍🔬 Biomedical Engineer | 🎨 UX/UI Design Student  
+👩‍🔬 Biomedical Engineer | 💻 Frontend Developer | 🎨 UX/UI Design Student  
 💻 2+ years of experience with React in Frontend Development  
 🔄 Skilled in workflow automation with n8n  
 📚 Soon to be Technologist in Software Analysis & Development  
