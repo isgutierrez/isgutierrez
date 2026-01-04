@@ -2,7 +2,7 @@
 
 👩‍🔬 Biomedical Engineer | 💻 Frontend Developer | 🎨 UX/UI Design Student  
 💻 2+ years of experience with React in Frontend Development  
-🗺️ 2+ years working with mapping libraries (Leaflet & MapLibre)
+🗺️ 2+ years working with mapping libraries (Leaflet & MapLibre)  
 🔄 Skilled in workflow automation with n8n  
 📚 Soon to be Technologist in Software Analysis & Development  
 ✨ Passionate about creating innovative projects that challenge me to grow  
